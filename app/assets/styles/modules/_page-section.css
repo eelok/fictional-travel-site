@@ -5,7 +5,7 @@
       padding: 4.5rem 0;
   }
 
-  &--no-b-padding0-until-medium {
+  &--no-b-padding-until-medium {
     padding-bottom: 0;
 
     @mixin atMedium {
